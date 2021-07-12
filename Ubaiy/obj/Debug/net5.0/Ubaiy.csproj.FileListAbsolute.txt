@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Ubaiy\bin\Debug\net5.0\Ubaiy.exe
+C:\Users\HP\Desktop\Ubaiy\bin\Debug\net5.0\Ubaiy.deps.json
+C:\Users\HP\Desktop\Ubaiy\bin\Debug\net5.0\Ubaiy.runtimeconfig.json
+C:\Users\HP\Desktop\Ubaiy\bin\Debug\net5.0\Ubaiy.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Ubaiy\bin\Debug\net5.0\Ubaiy.dll
+C:\Users\HP\Desktop\Ubaiy\bin\Debug\net5.0\ref\Ubaiy.dll
+C:\Users\HP\Desktop\Ubaiy\bin\Debug\net5.0\Ubaiy.pdb
+C:\Users\HP\Desktop\Ubaiy\obj\Debug\net5.0\Ubaiy.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Ubaiy\obj\Debug\net5.0\Ubaiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Ubaiy\obj\Debug\net5.0\Ubaiy.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Ubaiy\obj\Debug\net5.0\Ubaiy.AssemblyInfo.cs
+C:\Users\HP\Desktop\Ubaiy\obj\Debug\net5.0\Ubaiy.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ubaiy\obj\Debug\net5.0\Ubaiy.dll
+C:\Users\HP\Desktop\Ubaiy\obj\Debug\net5.0\ref\Ubaiy.dll
+C:\Users\HP\Desktop\Ubaiy\obj\Debug\net5.0\Ubaiy.pdb
+C:\Users\HP\Desktop\Ubaiy\obj\Debug\net5.0\Ubaiy.genruntimeconfig.cache

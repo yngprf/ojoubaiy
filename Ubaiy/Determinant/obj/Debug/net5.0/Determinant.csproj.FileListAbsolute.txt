@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Ubaiy\Determinant\bin\Debug\net5.0\Determinant.exe
+C:\Users\HP\Desktop\Ubaiy\Determinant\bin\Debug\net5.0\Determinant.deps.json
+C:\Users\HP\Desktop\Ubaiy\Determinant\bin\Debug\net5.0\Determinant.runtimeconfig.json
+C:\Users\HP\Desktop\Ubaiy\Determinant\bin\Debug\net5.0\Determinant.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Ubaiy\Determinant\bin\Debug\net5.0\Determinant.dll
+C:\Users\HP\Desktop\Ubaiy\Determinant\bin\Debug\net5.0\ref\Determinant.dll
+C:\Users\HP\Desktop\Ubaiy\Determinant\bin\Debug\net5.0\Determinant.pdb
+C:\Users\HP\Desktop\Ubaiy\Determinant\obj\Debug\net5.0\Determinant.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Ubaiy\Determinant\obj\Debug\net5.0\Determinant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Ubaiy\Determinant\obj\Debug\net5.0\Determinant.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Ubaiy\Determinant\obj\Debug\net5.0\Determinant.AssemblyInfo.cs
+C:\Users\HP\Desktop\Ubaiy\Determinant\obj\Debug\net5.0\Determinant.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ubaiy\Determinant\obj\Debug\net5.0\Determinant.dll
+C:\Users\HP\Desktop\Ubaiy\Determinant\obj\Debug\net5.0\ref\Determinant.dll
+C:\Users\HP\Desktop\Ubaiy\Determinant\obj\Debug\net5.0\Determinant.pdb
+C:\Users\HP\Desktop\Ubaiy\Determinant\obj\Debug\net5.0\Determinant.genruntimeconfig.cache
